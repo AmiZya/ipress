@@ -1,0 +1,4 @@
+django-admin-tools
+django-tagging
+django-tagging-autocomplete
+
